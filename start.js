@@ -60,4 +60,4 @@ client.on('message', message => {
 // 명령어 끝
 
 // 디스코드 토큰 입력
-client.login('NzExNDM1MzcyNzAxNDE3NDky.XsC-qw.ULxxo6i0RqgHCKp5XnEaec8XmNI')
+client.login('NzExNDM1MzcyNzAxNDE3NDky.XsDRgQ.8h1yC9VZf28pD2zQkmfrpWWx6hk')
